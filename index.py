@@ -1,4 +1,5 @@
-import sys
 
-from witt-api import app as application
+from api import wittapi
+
+from api import wittapi as application
 
