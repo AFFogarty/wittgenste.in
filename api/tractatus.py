@@ -10,8 +10,6 @@ class Tractatus:
         # Build the Book object
         self.tractatus = Book()
 
-        print "book initialized"
-
         # Get the tractatus from text
         all_text = open('static/tractatus.txt', 'r')
         output = all_text.readlines()
