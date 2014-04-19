@@ -12,9 +12,22 @@ def hello():
 @app.route("/random")
 def random():
     # Build the Tractatus and get a random section
-    tractatus = Tractatus()
-    book = tractatus.get_book()
-    section = book.get_random_section()
+    tractatus = None
+    book = None
+    section = None
+
+    try:
+        tractatus = Tractatus()
+    except:
+        return "Tractatus initialization error."
+    try:
+        book = tractatus.get_book()
+    except:
+        return "Get book error."
+    try:
+        section = book.get_random_section()
+    except:
+        return "Get section error!"
 
     # Print out the JSON
     return section.to_json()
