@@ -27,7 +27,7 @@ class Tractatus:
             # Load them in
             self.tractatus.add_section(index, text)
 
-        print self.tractatus
+        # print self.tractatus
 
     def get_book(self):
         return self.tractatus
