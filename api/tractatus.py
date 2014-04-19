@@ -9,10 +9,10 @@ class Tractatus:
 
         # Build the Book object
         self.tractatus = Book()
-        # print "Tractatus initialized"
+        print "Tractatus initialized"
 
         # Get the tractatus from text
-        all_text = open('res/tractatus.txt', 'r')
+        all_text = open('static/tractatus.txt', 'r')
         output = all_text.readlines()
 
         print "text file downloaded"
