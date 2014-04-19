@@ -1,7 +1,7 @@
 from flask import Flask
 from tractatus import Tractatus
 
-app = Flask("Wittgenstein-API")
+app = Flask(__name__)
 
 @app.route("/")
 def hello():
