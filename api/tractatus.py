@@ -22,7 +22,15 @@ class Tractatus:
         # Read the file line by line into self.tractatus
         # The actual content only begins at line 30 until the end
         for i in range(30, len(output)):
-            self.tractatus.add_section("0", output[i])
+            complete_string = str(output[i])
+
+            # We need to separate the index and the text
+            split_string = complete_string.partition(" ")
+            index = split_string[0]
+            text = split_string[2].rstrip("\n")
+
+            # Load them in
+            self.tractatus.add_section(index, text)
 
         print "loop complete"
         print self.tractatus
