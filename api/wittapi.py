@@ -1,6 +1,6 @@
 from flask import Flask
 
-from api.tractatus import Tractatus
+from tractatus import Tractatus
 
 
 app = Flask(__name__)
