@@ -2,7 +2,7 @@ from flask import Flask
 from book import Book
 from tractatus import Tractatus
 
-app = Flask(__name__)
+app = Flask("Wittgenstein-API")
 
 @app.route("/")
 def hello():
