@@ -1,4 +1,4 @@
-from book import Book
+from api.book import Book
 
 class Tractatus:
     # This is the book
