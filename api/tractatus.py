@@ -9,7 +9,7 @@ class Tractatus:
 
         # Build the Book object
         self.tractatus = Book()
-        print "Tractatus initialized"
+        # print "Tractatus initialized"
 
         # Get the tractatus from text
         all_text = open('res/tractatus.txt', 'r')
