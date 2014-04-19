@@ -1,5 +1,4 @@
 from flask import Flask
-from book import Book
 from tractatus import Tractatus
 
 app = Flask("Wittgenstein-API")
