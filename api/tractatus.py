@@ -1,4 +1,5 @@
 from book import Book
+import urllib2
 
 class Tractatus:
     # This is the book
@@ -11,7 +12,7 @@ class Tractatus:
         self.tractatus = Book()
 
         # Get the tractatus from text
-        all_text = open('static/tractatus.txt', 'r')
+        all_text = urllib2.urlopen('http://api.wittgenste.in/static/tractatus.txt')
         output = all_text.readlines()
 
         # Read the file line by line into self.tractatus
