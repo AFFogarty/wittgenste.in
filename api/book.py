@@ -8,9 +8,6 @@ class Book:
     def __init__(self):
         """ Build the book """
 
-        for i in range(13):
-            self.sections.append(random.randint(0, 10000000000000000000000))
-
     def add_section(self, index, text):
         """ Add a section to the book """
         passage = Passage(index, text)

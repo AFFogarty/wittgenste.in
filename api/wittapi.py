@@ -1,5 +1,4 @@
 from flask import Flask
-
 from tractatus import Tractatus
 
 
@@ -12,23 +11,13 @@ def hello():
 @app.route("/random")
 def random():
     # Build the Tractatus and get a random section
-    tractatus = None
-    book = None
-    section = None
-
-    try:
-        tractatus = Tractatus()
-    except:
-        return "Tractatus initialization error."
-    try:
-        book = tractatus.get_book()
-    except:
-        return "Get book error."
-    try:
-        section = book.get_random_section()
-    except:
-        return "Get section error!"
-
+    # print "Build tractatus"
+    tractatus = Tractatus()
+    # print "Then get the book"
+    book = tractatus.get_book()
+    # print "then get a section"
+    section = book.get_random_section()
+    # print "Then return json"
     # Print out the JSON
     return section.to_json()
 
