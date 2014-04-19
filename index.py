@@ -1,2 +1,2 @@
 
-from wittapi import app as application
+from api.wittapi import app as application
