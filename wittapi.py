@@ -1,5 +1,7 @@
 from flask import Flask
+
 from tractatus import Tractatus
+
 
 app = Flask(__name__)
 
