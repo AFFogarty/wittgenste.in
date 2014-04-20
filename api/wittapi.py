@@ -7,6 +7,7 @@ app = Flask(__name__)
 
 # Set the correct origin
 app.config['CORS_ORIGINS'] = ['http://wittgenste.in']
+app.config['CORS_METHODS'] = ['GET']
 
 @app.route("/")
 def hello():
