@@ -73,7 +73,7 @@
     render: function() {
       console.log("Rendering");
       $(this.el).html(
-              '<p>'+ this.model.get('index') + '</p><p>' +
+              '<p><b>'+ this.model.get('index') + '</b> ' +
               this.model.get("text") + "</p>");
       console.log("Rendering done");
 //      $(this.el).append(this.template(this.model.toJSON()));
