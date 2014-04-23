@@ -1,5 +1,5 @@
+import os
 from book import Book
-import urllib2
 
 class Tractatus:
     # This is the book
@@ -12,7 +12,8 @@ class Tractatus:
         self.tractatus = Book()
 
         # Get the tractatus from text
-        all_text = urllib2.urlopen('http://api.wittgenste.in/static/tractatus.txt')
+        SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+        all_text = open(os.path.join(SITE_ROOT, "static", "tractatus.txt"), 'r')
         output = all_text.readlines()
 
         # Read the file line by line into self.tractatus
