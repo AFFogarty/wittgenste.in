@@ -2,20 +2,15 @@ html {
     height: 100%;
 }
 
-html, body {
-	margin: 0;
-	padding: 0;
-}
-
 body {
     font-size: 24px;
     font-family: Georgia, Times, New, Roman, serif;
     line-height: 1.4em;
-    background-size: auto 100%;
     background: #ffffff url('../img/background_better.jpg') no-repeat center;
-    width: 508px;
-    height: 304px;
+    background-size: auto 100%;
     color: #000000;
+    margin: 0;
+    padding: 0;
 }
 
 #quotation {
