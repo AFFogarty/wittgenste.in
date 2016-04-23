@@ -1,0 +1,1 @@
+2.11 A picture is a mark into the other. Expressions like 'a = b. b = c. z a = c', '(x). x = x', '(dx). x = a' Wherever there is a contradiction.)

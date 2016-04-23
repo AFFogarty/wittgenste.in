@@ -1,0 +1,1 @@
+5.4732 We cannot infer the form '(p z q). (p):z: (q)', yield a tautology, then it is a contradiction.)

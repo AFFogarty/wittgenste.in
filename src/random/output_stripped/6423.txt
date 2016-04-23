@@ -1,0 +1,1 @@
+6.521 The solution of the propositions that do not write 'f(a, b). a = b', but 'f(a, b)'.

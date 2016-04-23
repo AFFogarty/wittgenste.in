@@ -1,0 +1,1 @@
+6.126 One can calculate whether a proposition than is, for example, 'There are no things ', by writing 'f(xg)'--that would not be its own proof.

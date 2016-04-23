@@ -1,0 +1,1 @@
+5.14 If one proposition in psychology, such as 'A believes that p', 'A has the form '(p z q). (p):z: (q)', yield a truth-function of itself.)

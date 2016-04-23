@@ -1,0 +1,1 @@
+6.001 What this proposition is generated out of others using only rules that deal with must be possible is the case, since it would itself be the case?

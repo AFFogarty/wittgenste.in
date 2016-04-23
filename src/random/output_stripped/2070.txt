@@ -1,0 +1,1 @@
+5.525 It is in fact logically impossible, since it is a tautology when combined in this form of sign without knowing how the outermost T and F are connected in a general way to certain formal relations.

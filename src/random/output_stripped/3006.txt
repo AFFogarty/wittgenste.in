@@ -1,0 +1,1 @@
+5.524 If objects are connected with the innermost ones, the result will be dependent on the bases of the proposition.

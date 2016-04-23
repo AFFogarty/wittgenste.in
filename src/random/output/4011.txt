@@ -1,0 +1,1 @@
+6.2321 And the concept of successive applications of an operation can vanish (e.g. negation in 'PPp': PPp = p).

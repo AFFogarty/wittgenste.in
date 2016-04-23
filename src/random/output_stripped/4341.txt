@@ -1,0 +1,1 @@
+5.514 Once a notation has been introduced, it must be capable of translating each into the symbolism of arithmetic.

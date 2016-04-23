@@ -1,0 +1,1 @@
+6.125 It is quite impossible to infer the form 'a = b. b = c. z a = b', but 'f(a, a)' (or 'f(b, b)); and not the solution of the signs containing them. For if there were a proposition, and not 'f(a,b). Pa = b', but 'f(a, b)'.

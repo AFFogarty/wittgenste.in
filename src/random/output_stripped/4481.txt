@@ -1,0 +1,1 @@
+5.101 The truth-functions of elementary propositions. We can represent truth-possibilities by schemata of 'T's' and 'F's' express.

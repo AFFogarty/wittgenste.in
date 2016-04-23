@@ -1,0 +1,1 @@
+5.25 The occurrence of an integer is [0, E, E +1].

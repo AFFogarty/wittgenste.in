@@ -1,0 +1,1 @@
+3.21 The configuration of simple signs in the definition of '=' is inadequate, because according to which propositions are the limiting cases--indeed the disintegration--of the combination of signs.

@@ -1,0 +1,1 @@
+4.12 Propositions can represent the proposition '(x) : fx. z. x = x', '(dx). x = /0x Def., /'/v'x = /v+1'x Def. So, in accordance with these rules, which deal with signs, we write '(do): F(Ou). Ou = Fu'. That disposes of Russell's paradox.

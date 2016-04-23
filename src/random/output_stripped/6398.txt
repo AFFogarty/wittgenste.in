@@ -1,0 +1,1 @@
+5.24 An operation can take one of its argument, and it would follow that in '(dx, O). Ox' we have not given names.

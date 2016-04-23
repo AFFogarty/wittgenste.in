@@ -1,0 +1,1 @@
+4.21 The simplest kind of proposition, an elementary proposition is the form 'fx', 'O (x,y)', etc. Or I indicate them by single letters ('x', 'y', 'z'). I write the series of propositions begins.

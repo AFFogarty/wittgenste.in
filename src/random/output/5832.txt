@@ -1,0 +1,1 @@
+5.242 The operation that produces 'q' from 'p' also produces 'r' from 'q', and so it must be part of a symbol satisfying the description, and thus the essence of the elementary propositions.

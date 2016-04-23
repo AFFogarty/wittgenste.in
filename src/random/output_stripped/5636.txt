@@ -1,0 +1,1 @@
+5.1 Truth-functions can be decided by logic at all can be construed as '(1 + 1) + (1 + 1)'.

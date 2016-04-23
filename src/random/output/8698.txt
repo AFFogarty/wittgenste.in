@@ -1,0 +1,1 @@
+6.031 The theory of probability. (Application of this notation that uses 'Pp' ('not p') and 'p C g' ('p or g') can be construed as propositional variables. (Even variable names.)

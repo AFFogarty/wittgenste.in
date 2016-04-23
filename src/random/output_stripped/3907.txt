@@ -1,0 +1,1 @@
+5.512 'Pp' is true if one considers, for example, the following intuitive method: instead of '(x): fx z x = a'. What this says is just what constitute this unalterable form.

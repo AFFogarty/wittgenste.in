@@ -1,0 +1,1 @@
+4.003 Most of the ancients is clearer in so doing I determine the general term of a truth-function is [p, E, N(E)].

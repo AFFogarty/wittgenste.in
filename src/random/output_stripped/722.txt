@@ -1,0 +1,1 @@
+2.025 It is only by its result, and this does not exits, but simply false. When a truth-operation is applied to itself.)

@@ -1,0 +1,1 @@
+5.1 Truth-functions can be produced by double negation: in such a language, though, it is correct or incorrect, true or false.

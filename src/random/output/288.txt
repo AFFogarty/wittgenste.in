@@ -1,0 +1,1 @@
+5.25 The occurrence of the following kind ('T' means 'true', 'F' means 'false'; the rows of 'T's' and 'F's' under the row of elementary propositions.

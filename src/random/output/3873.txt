@@ -1,0 +1,1 @@
+5.535 This also disposes of all propositions that affirm both p and not false.

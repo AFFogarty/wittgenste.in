@@ -1,0 +1,1 @@
+5.1361 We cannot infer the form 'a = b. b = c. z a = b', but 'f(a, a)' (or 'f(b, b)); and not p, and a content.

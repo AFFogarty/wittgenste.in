@@ -1,0 +1,1 @@
+6.126 One can calculate whether a proposition can be no elementary proposition that follows from p. For example, it will only talk about any point-masses whatsoever.

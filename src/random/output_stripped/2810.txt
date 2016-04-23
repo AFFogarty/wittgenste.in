@@ -1,0 +1,1 @@
+5.242 The operation that produces 'q' from 'p' also produces 'r' from 'q', and so too in the same way.)

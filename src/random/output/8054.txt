@@ -1,0 +1,1 @@
+4.061 It must set limits to the word 'object' ('thing', etc.) is correctly used, it is the rule for translating this language into the thing without the space.

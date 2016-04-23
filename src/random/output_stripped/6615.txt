@@ -1,0 +1,1 @@
+5.51 If E has as its values all the values of x, then N(E) = Pp (not p); if it could be its real one.

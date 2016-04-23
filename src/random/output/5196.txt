@@ -1,0 +1,1 @@
+2.03 In a tautology shows that fa follows from q to p, deduce p from q. The nature of the propositional sign and a content.

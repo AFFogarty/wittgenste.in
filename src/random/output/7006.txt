@@ -1,0 +1,1 @@
+6.241 Thus the word 'is' figures as an hypothesis in front of 'fx'--for instance by writing '(G,G). F(G,G)' --it would not sound obvious even if this were a proposition, but by an eye.

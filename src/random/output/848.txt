@@ -1,0 +1,1 @@
+6.01 Therefore the general construction of propositions 'aRb', '(d: c): aRx. xRb', '(d x,y): aRx. xRy. yRb',..., In order to signify something.

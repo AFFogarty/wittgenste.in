@@ -1,0 +1,1 @@
+4.5 It now seems possible to find an exact expression for this.

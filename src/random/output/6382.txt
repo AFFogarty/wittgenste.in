@@ -1,0 +1,1 @@
+5.14 If one proposition 'fa' shows that fa follows from q.

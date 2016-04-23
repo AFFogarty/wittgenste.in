@@ -1,0 +1,1 @@
+5.132 If p then q. (p z p. q z q) (TTTF) (p, q) Tautology (If p then q. (p z p. q z q) (FTTT) (p, q) " : p or q; and so on.

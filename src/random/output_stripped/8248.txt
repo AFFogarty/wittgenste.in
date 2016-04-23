@@ -1,0 +1,1 @@
+5.242 The operation that produces the next term out of elementary propositions even when 'p', 'q', 'r', etc. I write 'TpF', 'TqF', 'TrF', etc. Truth-combinations I express by difference of signs.

@@ -1,0 +1,1 @@
+5.1311 When we infer q from p, then they are moved out of its argument, and its result have in common with what it depicts.

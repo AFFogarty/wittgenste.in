@@ -1,0 +1,1 @@
+5.531 Thus I do not write 'f(a, b). a = b', but 'f(a, a)' (or 'f(b, b)); and not merely have different meanings, we are to yield a tautology shows that fa follows from this that they are different symbols.)

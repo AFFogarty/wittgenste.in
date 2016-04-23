@@ -1,0 +1,1 @@
+3.3 Only propositions have no truth-arguments in common with other symbols.

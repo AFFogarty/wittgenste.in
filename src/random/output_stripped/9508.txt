@@ -1,0 +1,1 @@
+5.122 If p then p, and a contradiction is true if in fact not problems at all.

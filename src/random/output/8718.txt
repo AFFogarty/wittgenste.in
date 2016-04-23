@@ -1,0 +1,1 @@
+5.473 Logic must look after itself. If we here substitute 'p' for 'q' and examine how the outermost T and F are connected with the world.

@@ -1,0 +1,1 @@
+2.0233 If two expressions are nonsensical. (It is nonsense to place the hypothesis 'p z q', 'p', and 'q', combined with one and same proposition.

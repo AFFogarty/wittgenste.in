@@ -1,0 +1,1 @@
+6.41 The sense of the complex. A complex can be construed as propositional variables. (Even variable names.)

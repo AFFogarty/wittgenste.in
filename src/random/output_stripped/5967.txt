@@ -1,0 +1,1 @@
+5.44 Truth-functions are not abstract, but perhaps the most general form according to which one proposition can determine the range that it represents. And I understand a proposition there must be able to represent by its internal properties. A proposition shows its sense.

@@ -1,0 +1,1 @@
+5.122 If p follows from 'p z q', 'p', and 'q', combined with one another, then their structure shows it; the same sense that we can immediately use a description of the propositions marked with this operation, and how they are true for every situation cannot be combinations of them; i.e. not only 'p C p', 'p. p', etc., which have the same sign as 'A'.)

@@ -1,0 +1,1 @@
+5.23 The operation that produces 'q' from 'p' also produces 'r' from 'q', and so does its ending with a particular number of 'T's' and 'F's' express.

@@ -1,0 +1,1 @@
+6.22 The logic of its objects, this cannot be composite.

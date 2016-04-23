@@ -1,0 +1,1 @@
+3.3442 Nor does analysis resolve the sign '=' between them. So 'a = b. b = c. z a = c', '(x). x = x', '(dx). x = a', etc. cannot even be described.

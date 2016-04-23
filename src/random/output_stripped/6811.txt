@@ -1,0 +1,1 @@
+6.03 The general validity of logic must be capable of expressing this: 'p', 'q', 'r'.

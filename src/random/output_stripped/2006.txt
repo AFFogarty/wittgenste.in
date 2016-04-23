@@ -1,0 +1,1 @@
+5.502 So instead of 'F(Fu)' we write '(do): F(Ou). Ou = Fu'. That disposes of Russell's paradox.

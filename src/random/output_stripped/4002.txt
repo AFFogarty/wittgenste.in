@@ -1,0 +1,1 @@
+5.5421 This shows too that there must be exactly as many distinguishable parts as in the two functions, but the possibility of inference from q to p, deduce p from q.

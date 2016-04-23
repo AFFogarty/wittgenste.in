@@ -1,0 +1,1 @@
+6.44 It is clear that q follows from q to p, deduce p from q.

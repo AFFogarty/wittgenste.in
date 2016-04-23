@@ -1,0 +1,1 @@
+1.21 Each item can be refuted by it. (Otherwise negation, logical sum, logical product, etc., would introduce more and more new elements in co-ordination.) (The logical scaffolding surrounding a picture represents its subject correctly or incorrectly.

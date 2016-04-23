@@ -1,0 +1,1 @@
+5.32 All truth-functions are always identical whenever they are produced.

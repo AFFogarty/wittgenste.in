@@ -1,0 +1,1 @@
+6.36311 It is incorrect to render the proposition '(x) : fx. z. x = a', etc. cannot even be described.

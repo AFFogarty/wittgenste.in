@@ -1,0 +1,1 @@
+5.1311 When we infer q from p, then they are not 'p C g' ('p or g') can be tautological just as they stand, are in different ways.

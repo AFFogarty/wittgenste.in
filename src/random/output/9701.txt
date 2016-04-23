@@ -1,0 +1,1 @@
+6.002 If we here substitute 'p' for 'q' and examine how the outermost T and F are connected in a different proposition.

@@ -1,0 +1,1 @@
+5.521 I dissociate the concept of a proposition. Instead it is clear from the fact that the words 'complex', 'fact', 'function', 'number', etc. They all signify formal concepts, in the same number of elementary propositions. And it is shown by the number of fundamental operations that are necessary depends solely on our notation.

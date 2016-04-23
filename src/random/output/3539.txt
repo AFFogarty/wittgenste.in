@@ -1,0 +1,1 @@
+6.1232 The general form of a propositional sign and a proof in logic is merely a mechanical expedient to facilitate the recognition of tautologies in complicated cases.

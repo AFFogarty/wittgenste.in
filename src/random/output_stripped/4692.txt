@@ -1,0 +1,1 @@
+5.141 If p then p, and if Trs is the beginning of the form 'a = a', 'a = b Def.' A definition is a possibility: something can exist in it.

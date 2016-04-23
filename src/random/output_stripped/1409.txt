@@ -1,0 +1,1 @@
+5.522 What is the fact that the analysis of propositions 'aRb', '(d: c): aRx. xRb', '(d x,y) : aRx. xRy. yRb',..., In order to exclude all mistakes.)

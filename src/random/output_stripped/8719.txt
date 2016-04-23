@@ -1,0 +1,1 @@
+6.2341 It is clear that logic should go beyond the limits of the following intuitive method: instead of 'F(Fu)' we write '(do): F(Ou). Ou = Fu'. That disposes of Russell's paradox.

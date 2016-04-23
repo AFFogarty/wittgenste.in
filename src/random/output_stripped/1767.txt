@@ -1,0 +1,1 @@
+2.0233 If two objects should not know its external properties, is that they all have in common.

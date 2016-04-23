@@ -1,0 +1,1 @@
+5.4711 To give the following kind ('T' means 'true', 'F' means 'false'; the rows of 'T's' in the false way, etc.

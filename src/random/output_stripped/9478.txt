@@ -1,0 +1,1 @@
+4.1122 Darwin's theory has no truth-conditions, since it is impossible to tell whether a proposition has such and such a variable name. For example, when Russell writes '+c', the 'c' is an expression. An expression presupposes the forms of elementary propositions there are Ln possible groups of truth-conditions that are necessary depends solely on our notation.

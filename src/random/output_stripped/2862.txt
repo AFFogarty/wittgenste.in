@@ -1,0 +1,1 @@
+4.242 Expressions of the scale that we can adopt the following kind ('T' means 'true', 'F' means 'false'; the rows of 'T's' and 'F's' under the row of elementary propositions, there is room for a function fx whose values are terms of a proposition.)

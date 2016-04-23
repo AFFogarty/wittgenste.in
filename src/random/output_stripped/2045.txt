@@ -1,0 +1,1 @@
+6.1233 It is clear that q follows from 'p z p' in front of certain symbols. So the sign for a probability proposition is its agreement and disagreement with the equations.

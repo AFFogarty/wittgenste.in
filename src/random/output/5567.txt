@@ -1,0 +1,1 @@
+6.126 One can calculate whether a formal concept and the formal concept, and its result have in common.

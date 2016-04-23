@@ -1,0 +1,1 @@
+5.23 The operation that produces one term from another.

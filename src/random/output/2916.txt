@@ -1,0 +1,1 @@
+4.2 The sense of 'p' is true on no condition. Tautologies and contradictions are not, however, nonsensical. They are what is signified.

@@ -1,0 +1,1 @@
+5.132 If p follows from another, then their structure shows it; the same is true of all 'true' logical propositions.

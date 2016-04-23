@@ -1,0 +1,1 @@
+4.26 If all objects are given, the result is a property of '1 + 1 +1 = 3 Def., (and so on).

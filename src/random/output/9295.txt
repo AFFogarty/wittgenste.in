@@ -1,0 +1,1 @@
+2.021 Objects make up the following kind ('T' means 'true', 'F' means 'false'; the rows of 'T's' and 'F's' express.

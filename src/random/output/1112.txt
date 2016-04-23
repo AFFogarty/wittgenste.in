@@ -1,0 +1,1 @@
+4.02 We can determine the sense of the inference. 'Laws of inference', which are values of x are the bases of an operation can vanish (e.g. negation in 'PPp': PPp = p).

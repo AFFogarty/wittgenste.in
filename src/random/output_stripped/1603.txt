@@ -1,0 +1,1 @@
+5.31 The schemata in 4.31 have a sense. And I say that the 'logical constants' are not essential to the results of all elementary propositions: then I can simply substitute for it.

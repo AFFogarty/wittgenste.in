@@ -1,0 +1,1 @@
+3.317 To stipulate values for all by a particular size of mesh. Similarly the possibility of expressing this: 'p', 'q', 'r'.

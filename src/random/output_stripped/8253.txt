@@ -1,0 +1,1 @@
+5.141 If p then p, and q is the totality of all particular cases of numerical equality.

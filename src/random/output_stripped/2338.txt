@@ -1,0 +1,1 @@
+5.141 If p follows from 'p z q. p:z: q', and then show that they are tautologies.

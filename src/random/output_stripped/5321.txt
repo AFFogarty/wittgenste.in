@@ -1,0 +1,1 @@
+4.1211 Thus one proposition follows from q to p, deduce p from q. The nature of a proposition does not determine a logical form.

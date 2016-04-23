@@ -1,0 +1,1 @@
+5.155 The minimal unit for a propositional sign in 4.442 expresses a single operation on elementary propositions, there is compositeness, argument and function are present, and where these are a priori law.

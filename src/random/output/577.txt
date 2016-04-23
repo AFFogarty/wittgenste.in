@@ -1,0 +1,1 @@
+5.476 It is a feature of all truth-operations that have to deal with signs, we write '(dx). fx . z: (dx, y). fx. fy'. And the possibility that things are arbitrary in our picture are the bases themselves.)

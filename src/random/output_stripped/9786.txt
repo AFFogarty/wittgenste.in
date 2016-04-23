@@ -1,0 +1,1 @@
+5.513 We might put it in this shows that fa follows from p and q. (P(p. q)) (TFTT) (p, q) ": Not p. (Pp) (FTTF) (p, q) Tautology (If p then q. (p C q) (FFTT) (p, q) ": p and q. (P(p. q)) (TFTT) (p, q) In words: Not both p and not '(dx, y). f(x, y)'. 5.5321 Thus, for example, we wanted to express, 'There are books'. And it says nothing.

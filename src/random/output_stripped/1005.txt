@@ -1,0 +1,1 @@
+5.512 'Pp' is masked, in this way: we combine them to form 'p z q', 'p', and 'q', combined with one another in a proposition in which we have not given names.

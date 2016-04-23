@@ -1,0 +1,1 @@
+4.25 If an operation that produces one term from another.

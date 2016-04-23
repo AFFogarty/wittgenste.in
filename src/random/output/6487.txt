@@ -1,0 +1,1 @@
+5.155 The minimal unit for a sign for a probability proposition is not 'is true' or 'is false', as Frege appealed to the existence of an integer is [0, E, E +1].

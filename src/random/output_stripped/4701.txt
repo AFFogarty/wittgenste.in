@@ -1,0 +1,1 @@
+4.025 When translating one language into another, we do not write 'f(a, b). a = c', '(x). x = a' we write '(dx). fx . z: (dx, y). fx. fy'. And the will consists in the usual form of reality.

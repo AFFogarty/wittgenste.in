@@ -1,0 +1,1 @@
+4.411 It immediately strikes one as probable that the results of truth-operations on truth-functions are always identical whenever they are connected with one another.

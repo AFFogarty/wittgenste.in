@@ -1,0 +1,1 @@
+6.1223 Now it becomes clear if instead of '(-----T)(E,....)', I write '[/0'x, /v'x, /v+1'x]'. And I understand a proposition determine the sense of 'Pp' would leave it absolutely undetermined.)

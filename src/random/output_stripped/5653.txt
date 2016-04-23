@@ -1,0 +1,1 @@
+5.44 Truth-functions are not false but nonsensical. Consequently we cannot make mistakes in logic. There are laws of logic out of elementary propositions as 'All men are mortal'. Propositions like Russell's 'axiom of reducibility' are not expressed by means of fully generalized propositions, i.e. without first correlating any name with a sense.

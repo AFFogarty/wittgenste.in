@@ -1,0 +1,1 @@
+5.155 The minimal unit for a proposition has only one way of making an inference from q to p, deduce p from q.

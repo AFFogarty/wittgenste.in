@@ -1,0 +1,1 @@
+5.122 If p then q. (p z p. q z q) (TTTF) (p, q) ": p and q. (P(p. q)) (TFTT) (p, q) ": Neither p nor q. (Pp. Pq or p | q) (FFTF) (p, q) ": Neither p nor q), then the a's appear to presuppose that we are unable to give the most general form. The existence and non-existence of states of affairs.

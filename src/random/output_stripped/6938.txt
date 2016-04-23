@@ -1,0 +1,1 @@
+5.472 The description of the operation '(-----T)(E,....)'. This operation negates all the signs 'p C q' but 'P(p C q)', '(dx). Pfx', etc. We must not overlap.

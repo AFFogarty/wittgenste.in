@@ -1,0 +1,1 @@
+1.21 Each item can be generated out of other propositions only as bases of an object.

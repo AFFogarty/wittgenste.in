@@ -1,0 +1,1 @@
+3.332 No proposition can make an inference from q to p, deduce p from q.

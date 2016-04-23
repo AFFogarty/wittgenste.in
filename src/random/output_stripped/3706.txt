@@ -1,0 +1,1 @@
+5.242 The operation that produces one term from another.

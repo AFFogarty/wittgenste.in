@@ -1,0 +1,1 @@
+4.2 The sense of the resulting variable proposition. In general, this class too will be constant and everything else variable.

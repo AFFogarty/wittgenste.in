@@ -1,0 +1,1 @@
+5.22 An operation is applied to truth-functions of elementary propositions.

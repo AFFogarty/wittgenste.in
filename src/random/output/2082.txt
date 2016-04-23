@@ -1,0 +1,1 @@
+5.132 If p follows from q to p, deduce p from q. The fact that every proposition has only one proposition to another. It gives expression to the symbol.

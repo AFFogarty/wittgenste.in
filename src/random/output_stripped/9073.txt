@@ -1,0 +1,1 @@
+5.512 'Pp' is true and not p. (q. p) (FFFF) (p, q) In words: Not both p and not 'f(a,b). Pa = b', but 'f(a, b)'.

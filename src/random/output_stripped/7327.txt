@@ -1,0 +1,1 @@
+4.123 A property is internal if it is the most concrete that there must be something purely logical.)

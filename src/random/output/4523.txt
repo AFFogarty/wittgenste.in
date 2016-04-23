@@ -1,0 +1,1 @@
+4.0031 All philosophy is the number of the will and the form '(p z q). (p):z: (q)', yield a truth-function of elementary propositions.

@@ -1,0 +1,1 @@
+5.5301 It is clear that the 'z' defined by means of definitions (in The Fundamental Laws of Arithmetic ) also apply, mutatis mutandis, to the essence of truth-operations on elementary propositions, it always generates another truth-function of elementary propositions. Hierarchies are and must be made clear.

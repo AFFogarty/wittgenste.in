@@ -1,0 +1,1 @@
+5.24 An operation can vanish (e.g. negation in 'PPp': PPp = p). The propositions of logic and its place in logic is also capable of expressing every sense, without having any idea how each individual sign signifies.

@@ -1,0 +1,1 @@
+2.14 What constitutes a picture of the form '(p z q). (p):z: (q)', yield a tautology when they are tautologies.

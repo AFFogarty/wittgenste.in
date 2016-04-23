@@ -1,0 +1,1 @@
+5.122 If p then p, and q from p, then they are true a priori.

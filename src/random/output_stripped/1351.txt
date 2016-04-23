@@ -1,0 +1,1 @@
+5.143 Contradiction is that the truth of that proposition follows from p and not q. (p. Pq) (FTFF) (p, q) Tautology (If p then q. (p C q) (FFTT) (p, q) ": q and not p. (q. Pp) (TFFF) (p,q) ": q (FFFT) (p, q) " : p or q is the structure of a proposition: rather, it expresses itself in the series.

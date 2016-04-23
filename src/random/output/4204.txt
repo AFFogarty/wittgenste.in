@@ -1,0 +1,1 @@
+(An elementary proposition consists of infinitely many others, namely PPp, PPPPp, etc. And it is merely a mechanical expedient to facilitate the recognition of tautologies in complicated cases.

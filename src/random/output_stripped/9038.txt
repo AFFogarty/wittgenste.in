@@ -1,0 +1,1 @@
+5.14 If one proposition follows from q to p, deduce p from q. The nature of a logical proof of logical inference is a primitive sign.

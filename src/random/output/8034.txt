@@ -1,0 +1,1 @@
+This also disposes of all 'true' logical propositions.

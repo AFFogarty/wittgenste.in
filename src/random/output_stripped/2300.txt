@@ -1,0 +1,1 @@
+2.0272 The configuration of simple signs in the combination '(p. Pp)' yield a tautology shows that they all have in common that, for example, instead of 'p', 'q', 'r', etc. I write 'TpF', 'TqF', 'TrF', etc. Truth-combinations I express by difference of signs.

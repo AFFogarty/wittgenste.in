@@ -1,0 +1,1 @@
+5.141 If p then q. (p z p. q z q) (FTTT) (p, q) Contradiction (p and not p, and q is the answer.

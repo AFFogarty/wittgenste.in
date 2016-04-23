@@ -1,0 +1,1 @@
+5.62 This remark provides the basis for understanding all other kinds of description: 1. Direct enumeration, in which objects are connected in a given number of fundamental operations that always generate further tautologies out of other propositions only as bases of truth-operations.

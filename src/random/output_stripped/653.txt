@@ -1,0 +1,1 @@
+5.01 Elementary propositions are results of operations with elementary propositions as its values possess, and this is manifest that there should follow from a given set of their combinations.

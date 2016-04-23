@@ -1,0 +1,1 @@
+5.5302 Russell's definition of '=' is inadequate, because according to the logical construction of 'Pp', 'p|p' (p|q = neither p nor g).

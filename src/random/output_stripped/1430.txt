@@ -1,0 +1,1 @@
+4.022 A proposition is a variable a 'propositional variable'.

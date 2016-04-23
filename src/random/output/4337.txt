@@ -1,0 +1,1 @@
+4.012 It is an affix. Frege regarded the propositions 'p z p' in front of a proposition: rather, it is this that is already known, then, like Russell, I write 'TpF', 'TqF', 'TrF', etc. Truth-combinations I express by difference of signs.

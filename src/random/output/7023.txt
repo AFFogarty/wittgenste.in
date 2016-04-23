@@ -1,0 +1,1 @@
+5.132 If p then p, and q from p, then they are meant to be unaware that they can be construed as propositional variables. (Even variable names.)

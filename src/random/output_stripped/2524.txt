@@ -1,0 +1,1 @@
+5.123 If a question can be described completely by a combinatory rule, then the last column by itself signifies nothing. This immediately becomes clear now why logic was called the theory of probability.

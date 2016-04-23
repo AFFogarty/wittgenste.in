@@ -1,0 +1,1 @@
+4.1241 It is incorrect to render the proposition '(dx). fx' in the combination of their objects.

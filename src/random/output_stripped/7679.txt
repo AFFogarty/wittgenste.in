@@ -1,0 +1,1 @@
+5.451 If logic has primitive ideas, they must reside in the world completely by a variable whose values are the truth-arguments of propositions.

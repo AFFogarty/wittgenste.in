@@ -1,0 +1,1 @@
+2.15 The fact that the sign 'b' can be disclosed by the possibility of inference from q to p, deduce p from q.

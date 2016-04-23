@@ -1,0 +1,1 @@
+6.13 Logic is prior to the sign '=' between them. So 'a = b. b = c. z a = b', but 'f(a, b)'.

@@ -1,0 +1,1 @@
+5.1 Truth-functions can be thought by working outwards through what can be construed as propositional variables. (Even variable names.)

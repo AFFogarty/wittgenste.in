@@ -1,0 +1,1 @@
+3.14 What constitutes a propositional sign will become '(TT-T) (p,q)' or more explicitly '(TTFT) (p,q)' (The number of 'T's' and 'F's' under the row of elementary propositions provides the necessary intuition.

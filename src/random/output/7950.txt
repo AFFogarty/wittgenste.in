@@ -1,0 +1,1 @@
+5.11 If all objects are connected in a definition.

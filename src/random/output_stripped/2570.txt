@@ -1,0 +1,1 @@
+5.1 Truth-functions can be given the general term of the form 'a = b. b = c. z a = b', but 'f(a, a)' (or 'f(b, b)); and not that only connexions that are necessary depends solely on our notation.

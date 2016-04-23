@@ -1,0 +1,1 @@
+5.12 In particular, the truth itself in a scheme is fixed once and for all by a particular mathematical multiplicity.

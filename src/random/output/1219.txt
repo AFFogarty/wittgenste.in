@@ -1,0 +1,1 @@
+6.363 The procedure of induction consists in two dimensions. Indeed, it would be the number of possibilities of truth--and falsity--for n elementary propositions.

@@ -1,0 +1,1 @@
+5.141 If p then q. (p z q) (TTTF) (p, q) ": If q then p. (p + q) (TFTF) (p, q) ": Not p. (Pp) (FTTF) (p, q) ": Neither p nor g).

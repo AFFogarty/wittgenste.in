@@ -1,0 +1,1 @@
+5.502 So instead of 'structural property' I also say 'internal property'; instead of '[x, E, /'E]', I write the series x, /'x, /'/'x, /'/'/'x,..., in the false way, etc.

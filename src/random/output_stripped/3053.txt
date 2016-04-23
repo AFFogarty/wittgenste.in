@@ -1,0 +1,1 @@
+4.123 A property is a truth-function is [p, E, N(E)].

@@ -1,0 +1,1 @@
+5.154 Suppose that I know nothing about the consequences of an integer is [0, E, E +1].

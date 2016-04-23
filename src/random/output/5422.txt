@@ -1,0 +1,1 @@
+4.1273 If we introduced logical signs properly, then we have some concept of elementary propositions.

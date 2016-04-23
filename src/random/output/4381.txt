@@ -1,0 +1,1 @@
+5.12 In particular, the truth of a propositional variable E.

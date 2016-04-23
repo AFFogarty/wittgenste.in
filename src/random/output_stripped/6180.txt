@@ -1,0 +1,1 @@
+5.1311 When we infer q from p, then they are intended to express; only they do so must lead to obvious nonsense.

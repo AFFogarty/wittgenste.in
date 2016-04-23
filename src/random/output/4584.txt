@@ -1,0 +1,1 @@
+2.014 Objects contain the possibility of inference from q to p, deduce p from q. The fact that we were excluding certain possibilities, and this can be the most general propositional form is called a zero-method. In a picture is a fact.

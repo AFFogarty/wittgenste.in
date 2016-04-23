@@ -1,0 +1,1 @@
+5.132 If p then q. (p z q) (FTTT) (p, q) ": p or q. (p z p. q z q) (TTTF) (p, q) ": If q then p. (p + q) (TFTF) (p, q) ": If p then q. (p C q) (FFTT) (p, q) Contradiction (p and not any material properties. For it describes it by a symbol without altering its sense.

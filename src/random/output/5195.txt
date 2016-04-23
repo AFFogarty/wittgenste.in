@@ -1,0 +1,1 @@
+5.32 All truth-functions are results of successive applications to elementary propositions yield a tautology and contradiction.)

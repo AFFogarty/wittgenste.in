@@ -1,0 +1,1 @@
+5.135 There is only the description of the total number of fundamental operations that always generate further tautologies out of other logical propositions by combining them with one and same proposition.

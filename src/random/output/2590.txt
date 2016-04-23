@@ -1,0 +1,1 @@
+3. Giving a function fx for all the truth-possibilities of elementary propositions.

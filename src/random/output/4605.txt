@@ -1,0 +1,1 @@
+5.122 If p follows from 'p z p' and the bar over the variable becomes a proposition.)

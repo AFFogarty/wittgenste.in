@@ -1,0 +1,1 @@
+6.2 Mathematics is a tautology. In our notation the form 'a = b. b = c. z a = b', but 'f(a, b)'.

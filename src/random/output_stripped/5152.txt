@@ -1,0 +1,1 @@
+2.171 A picture contains the prototype of its argument, and its values all the symbols that signified it had in common with other symbols.

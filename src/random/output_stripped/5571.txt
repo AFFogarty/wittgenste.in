@@ -1,0 +1,1 @@
+4.127 The propositional sign in logic. There are no 'logical objects' or 'logical constants' (in Frege's and Russell's sense).

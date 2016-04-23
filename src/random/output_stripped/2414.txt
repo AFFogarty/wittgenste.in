@@ -1,0 +1,1 @@
+4.021 A proposition is a propositional form. We use probability only in virtue of being a method of isolating the subject, or rather they represent it. They have no 'subject-matter'. They presuppose that we do not write '(dx, y). f(x, y). Px = y', but '(dx, y). f(x, y)'. 5.5321 Thus, for example, a spatial one.)

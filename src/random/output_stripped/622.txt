@@ -1,0 +1,1 @@
+2.0212 In that case one could say, for example, instead of '(-----T)(E,....)', I write 'N(E)'. N(E) is the expression for the general propositional form: that is, to give prominence to constants.

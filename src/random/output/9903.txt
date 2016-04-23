@@ -1,0 +1,1 @@
+4.42 For n elementary propositions. A truth-operation is applied repeatedly to its own proof.

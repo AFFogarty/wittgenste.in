@@ -1,0 +1,1 @@
+6.43 If the good or bad exercise of the ancients is clearer in so far as they have a sense: it cannot be said, but makes itself manifest in the visual field. But really you do not write 'f(a, b). a = b', but 'f(a, b)'.

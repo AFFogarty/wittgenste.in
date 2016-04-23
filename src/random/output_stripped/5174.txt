@@ -1,0 +1,1 @@
+5.515 It must be possible to describe it by a combinatory rule, then the last column by itself signifies nothing. This immediately becomes clear now why logic was called the theory of probability.

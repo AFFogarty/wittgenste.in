@@ -1,0 +1,1 @@
+4.121 Propositions cannot represent what they say; tautologies and contradictions are not, however, nonsensical. They are all connected with the equations.

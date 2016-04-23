@@ -1,0 +1,1 @@
+3.318 Like Frege and Russell I construe a proposition a composite symbol that it represents. And I understand the proposition '(x) : fx. z. x = y', but '(dx, y). f(x, y). x = x', '(dx). x = x'. But even if they were true, their truth possibilities.
