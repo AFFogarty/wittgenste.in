@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-size: 18px;
+    font-family: Georgia, Times, New, Roman, serif;
+    line-height: 1.4em;
+    background: #ffffff url('../img/background_better_light.jpg') no-repeat center;
+    background-size: auto 100%;
+    color: #000000;
+}
+
+#quotation {
+    width: 50%;
+    margin: 5% auto 0 auto;
+}
+
+#quotation b {
+    margin-right: 1em;
+}
+
+li {
+    margin-bottom: 1em;
+}
