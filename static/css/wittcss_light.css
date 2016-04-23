@@ -8,6 +8,7 @@ body {
     line-height: 1.4em;
     background: #ffffff url('../img/background_better_light.jpg') no-repeat center;
     background-size: auto 100%;
+    background-attachment: fixed;
     color: #000000;
 }
 
